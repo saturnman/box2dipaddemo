@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8A92ACE4-F32F-490B-98FF-2AA396EC35A2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Box2diPad</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>727A703897EF8AED2F25C85D9BA34EF2F0972715</key>
+		<string>192.168.2.27:/Users/saturnman/projects/tmp/Box2diPad</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Box2diPad.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>727A703897EF8AED2F25C85D9BA34EF2F0972715</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>192.168.2.27:/Users/saturnman/projects/tmp/Box2diPad</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>727A703897EF8AED2F25C85D9BA34EF2F0972715</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>727A703897EF8AED2F25C85D9BA34EF2F0972715</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Box2diPad</string>
+		</dict>
+	</array>
+</dict>
+</plist>
